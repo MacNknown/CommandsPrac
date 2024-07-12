@@ -1,2 +1,2 @@
-This is the old text,
-it will soon be replaced.
+New text present
+Replaces the old text
